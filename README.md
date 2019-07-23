@@ -1,2 +1,3 @@
 # elastic-cli
-simple elasticsearch client, use it to get log in a range date (day or hour)
+
+Simple elasticsearch client (Very Simple), you can use it to get logs in a range date (day or hour) for a specfic index. 
