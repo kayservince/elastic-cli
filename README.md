@@ -15,5 +15,5 @@ Usage sample : python escli.py --index <nom_index> --fieldname <timestamp|date> 
 
 ```
 sudo yum install python36 python36-pip
-sudo pip install elasticsearch6
+sudo pip3 install elasticsearch
 ```
